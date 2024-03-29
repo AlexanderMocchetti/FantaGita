@@ -1,6 +1,6 @@
 <?php
-require 'functions.php';
-require 'connection.php';
+require '../functions.php';
+require '../connection.php';
 global $conn;
 session_start();
 ?>
